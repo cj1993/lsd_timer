@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+
+#color, #spacebar {
+  color: white;
+  font-size: 1000%;
+  text-align: center;
+}
