@@ -1,3 +1,6 @@
 # lsd_timer
 
-Timer on space bar.
+* Run `$ ruby rb.rb`
+* Visit `localhost:4567`
+
+* Millisecond timer on space bar + random colours
